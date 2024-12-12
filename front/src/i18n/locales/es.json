@@ -1,0 +1,7 @@
+{
+    "notFound": {
+        "title": "Página No Encontrada",
+        "message": "Lo siento, la página que buscas no existe.",
+        "linkText": "Volver al inicio"
+    }
+}
